@@ -2,7 +2,7 @@
 main:
 
   - title: "Preprints"
-    url: /publications/
+    url: /preprints/
     
   - title: "Conferences"
     url: /publications/
