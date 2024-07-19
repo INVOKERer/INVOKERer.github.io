@@ -12,5 +12,5 @@ author_profile: true
 
 # Preprints
 
-**Xintian Mao**, Yiming Liu, Wei Shen, Qingli Li, Yan Wang. Deep Residual Fourier Transformation for Single Image Deblurring. arXiv:2111.11745. (pdf)[https://arxiv.org/abs/2111.11745v1]
+**Xintian Mao**, Yiming Liu, Wei Shen, Qingli Li, Yan Wang. Deep Residual Fourier Transformation for Single Image Deblurring. arXiv:2111.11745. [PDF](https://arxiv.org/abs/2111.11745v1)  | [Code](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)
 
