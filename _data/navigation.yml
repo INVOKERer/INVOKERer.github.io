@@ -1,6 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+
+  - title: "Preprints"
+    url: /publications/
+    
+  - title: "Conference"
+    url: /publications/
+
+  - title: "Journals"
     url: /publications/
 
   # - title: "Talks"
