@@ -22,6 +22,6 @@ author_profile: true
 **Xintian Mao**, Yiming Liu, Fengze Liu, Qingli Li, Wei Shen, Yan Wang. Intriguing Findings of Frequency Selection for Image Deblurring. AAAI Conference on Artificial Intelligence (AAAI), 2023 [Oral].​ [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25281)] [[Code](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)]
 
 # Journals
-Haofei Song, **Xintian Mao**, Jing Yu, Qingli Li, Yan Wang. $I^3$Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis. IEEE Trans. Medical Imaging, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10508991/)] [[Code](https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction)]
+Haofei Song, **Xintian Mao**, Jing Yu, Qingli Li, Yan Wang. I^3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis. IEEE Trans. Medical Imaging, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10508991/)] [[Code](https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction)]
 
 Jiansheng Wang, **Xintian Mao**, Yan Wang, Xiang Tao, Junhao Chu, Qingli Li. Bibliometric analysis of the current status and trends on medical hyperspectral imaging. Frontiers in Medicine, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0030399223002244)]
