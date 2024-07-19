@@ -9,14 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
----
-Preprints
----
+# Preprints
 
 Deep Residual Fourier Transformation for Single Image Deblurring
 
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
