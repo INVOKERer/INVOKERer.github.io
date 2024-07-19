@@ -25,7 +25,7 @@ author:
   name             : "Xintian Mao"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "East China Normal University"
   uri              : # URL
   email            : "mxt_invoker1997@163.com" 
