@@ -9,7 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
 # Preprints
 
-Deep Residual Fourier Transformation for Single Image Deblurring
+**Xintian Mao**, Yiming Liu, Wei Shen, Qingli Li, Yan Wang. Deep Residual Fourier Transformation for Single Image Deblurring. arXiv:2111.11745. (pdf)[https://arxiv.org/abs/2111.11745v1]
 
